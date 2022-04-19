@@ -26,7 +26,7 @@ export default class Navbar extends Component {
                 <div className="leftPiece" id = {this.state.openLinks ? "open" : "close"}>
                     <h1>Good Evening</h1>
                     <div className="hiddenLinks">
-                        <Link to='/'>Home</Link>
+                        <Link to='/RonJames-Portfolio'>Home</Link>
                         <Link to='/portfolio'>Portfolio</Link>
                         <Link to='/blogs'>Blogs</Link>
                         <Link to='/contact'>Contact</Link>
@@ -34,7 +34,7 @@ export default class Navbar extends Component {
                     </div>
                 </div>
                 <div className="rightPiece">
-                    <Link to='/'>Home</Link>
+                    <Link to='/RonJames-Portfolio'>Home</Link>
                     <Link to='/portfolio'>Portfolio</Link>
                     <Link to='/blogs'>Blogs</Link>
                     <Link to='/contact'>Contact</Link>

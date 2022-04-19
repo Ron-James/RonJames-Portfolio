@@ -19,7 +19,7 @@ function App() {
       <Navbar/>
       <Logo/>
       <Routes>
-        <Route exact path='/' element={<Home/>} />
+        <Route exact path='/RonJames-Portfolio' element={<Home/>} />
         <Route exact path='/contact' element={<Contact/>} />
         <Route exact path='/blogs' element={<Blogs/>} />
         <Route exact path='/portfolio' element={<Portfolio/>} />
