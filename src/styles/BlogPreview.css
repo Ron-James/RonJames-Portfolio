@@ -1,0 +1,32 @@
+.prev h3 {
+  background-color: #64dfdf;
+  padding-bottom: 1px;
+  color: #252525;
+}
+.prev img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.prev div {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.prev p {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.prev a {
+  background-color: #64dfdf;
+  padding-top: 1px;
+  padding-right: 7px;
+  padding-bottom: 2px;
+  padding-left: 7px;
+  color: #252525;
+}
