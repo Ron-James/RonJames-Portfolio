@@ -10,6 +10,7 @@ export default class Blogs extends Component {
                 <BlogPreview Title = "Non-Fungible Life" Image = "NFT.png" Link = "/blog1"/>
                 <BlogPreview Title = "Assessing the Value in Design and Aesthetics in Web Development" Image = "interface.png" Link = "/blog2"/>
                 <BlogPreview Title = "Connect the People" Image = "network.png" Link = "/blog3"/>
+                <BlogPreview Title = "Reflection" Image = "bubbles.png" Link = "/blog4"/>
                 
             </div>
         )

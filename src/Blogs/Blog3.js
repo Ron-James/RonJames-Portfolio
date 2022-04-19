@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "../styles/BlogPost.css";
 
-export default class Blog2 extends Component {
+export default class Blog3 extends Component {
   render() {
     return (
       <div>
