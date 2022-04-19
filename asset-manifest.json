@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/RonJames-Portfolio/static/css/main.be40bd49.css",
-    "main.js": "/RonJames-Portfolio/static/js/main.b60f329f.js",
+    "main.js": "/RonJames-Portfolio/static/js/main.ac1b41d7.js",
     "static/js/787.37faa4c4.chunk.js": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js",
     "static/media/temp_Logo.jpg": "/RonJames-Portfolio/static/media/temp_Logo.f488aa403a636d7f33fb.jpg",
     "static/media/network.png": "/RonJames-Portfolio/static/media/network.d2b5a0a7539cbc441016.png",
     "static/media/NFT.png": "/RonJames-Portfolio/static/media/NFT.37b073688dcc178ab986.png",
+    "static/media/bubbles.png": "/RonJames-Portfolio/static/media/bubbles.e610192ec706dc97979d.png",
     "static/media/fantasy.jpg": "/RonJames-Portfolio/static/media/fantasy.c5aa28ddcb9e7bc35b42.jpg",
     "static/media/Portfolio.png": "/RonJames-Portfolio/static/media/Portfolio.510982a2ff8cd69a0437.png",
     "static/media/Homepage.png": "/RonJames-Portfolio/static/media/Homepage.296777012177e73f0763.png",
@@ -15,11 +16,11 @@
     "static/media/interface.png": "/RonJames-Portfolio/static/media/interface.1c69352e7543b23f84a9.png",
     "index.html": "/RonJames-Portfolio/index.html",
     "main.be40bd49.css.map": "/RonJames-Portfolio/static/css/main.be40bd49.css.map",
-    "main.b60f329f.js.map": "/RonJames-Portfolio/static/js/main.b60f329f.js.map",
+    "main.ac1b41d7.js.map": "/RonJames-Portfolio/static/js/main.ac1b41d7.js.map",
     "787.37faa4c4.chunk.js.map": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be40bd49.css",
-    "static/js/main.b60f329f.js"
+    "static/js/main.ac1b41d7.js"
   ]
 }
