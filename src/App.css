@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
 
+
+
 .App {
   text-align: center;
   font-family: 'Castoro', serif;
@@ -12,5 +14,8 @@
 body{
   padding: 0;
   margin: 0;
-  background-color: #80ffdb;
+  background-color: white;
 }
+
+
+

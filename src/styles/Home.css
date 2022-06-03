@@ -22,8 +22,8 @@
   align-items: center;
 }
 .hero {
-  height: 80%;
-  width: 98%;
+  height: 100%;
+  width: 100%;
   position: relative;
 }
 .hero img {

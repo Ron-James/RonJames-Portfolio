@@ -1,7 +1,7 @@
 .prev h3 {
-  background-color: #64dfdf;
+  background-color: #7a3cea;
   padding-bottom: 1px;
-  color: #252525;
+  color: white;
 }
 .prev img {
   display: block;
@@ -23,10 +23,10 @@
 }
 
 .prev a {
-  background-color: #64dfdf;
+  background-color: #7a3cea;
   padding-top: 1px;
   padding-right: 7px;
   padding-bottom: 2px;
   padding-left: 7px;
-  color: #252525;
+  color: white;
 }

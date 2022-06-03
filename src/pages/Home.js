@@ -1,17 +1,15 @@
 import React, { Component } from "react";
-import Hero from '../assets/fantasy.jpg'
+import Hero from '../assets/GradientHeader.png'
 import "../styles/Home.css";
+import Header from "../components/Header";
+import Logo from "../components/Logo";
 
 export default class Home extends Component {
   render() {
     return (
       <div>
-          <section className = "start">
-              <div className = "hero">
-                <img src={Hero} />
-                <h1 className = "headline">Hello There</h1>
-              </div>
-          </section>
+        <Header headline="Hello There" />
+        <Logo/>
         <section class="aboutme">
           <h2>About Me</h2>
           <p>
