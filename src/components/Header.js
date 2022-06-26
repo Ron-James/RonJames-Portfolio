@@ -19,6 +19,9 @@ export default class Header extends Component {
           <div className="hero">
             <img src={Hero} />
             <h1 className="headline">{this.props.headline}</h1>
+
+            <div className="wave wave1"></div>
+            <div className="wave wave2"></div>
           </div>
         </header>
       </div>

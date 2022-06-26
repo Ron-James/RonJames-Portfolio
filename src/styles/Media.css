@@ -1,0 +1,14 @@
+.media {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .media li{
+    list-style: none;
+    margin: 20px;
+  }
+  .media li img{
+    width: 60px;
+    height: 60px; 
+  }

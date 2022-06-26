@@ -176,6 +176,7 @@ export default class Carousel extends Component {
       settings.slidesToShow = 1;
     }
     return (
+      <section id = "portfolio">
       <div className="carousel">
         <Slider {...settings}>
           {images.map((img, idx) => (
@@ -194,7 +195,8 @@ export default class Carousel extends Component {
           {p2Array[this.state.imageIndex]}
           <a href={links[this.state.imageIndex]}>Download</a>
         </div>
-      </div>
+        </div>
+        </section>
     );
   }
 }

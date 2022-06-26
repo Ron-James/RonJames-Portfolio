@@ -1,10 +1,13 @@
 import React, { Component } from "react";
 import "../styles/BlogPost.css";
+import Return from "../components/Return";
 
 export default class Blog2 extends Component {
   render() {
+    window.scrollTo(0, 0);
     return (
       <div>
+        <Return/>
         <article class="blog">
           <h1>
             Assessing the Value in Design and Aesthetics in Web Development

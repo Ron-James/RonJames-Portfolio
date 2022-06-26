@@ -1,11 +1,15 @@
 import React, { Component } from "react";
+import Return from "../components/Return";
 import "../styles/BlogPost.css";
 
 export default class Blog1 extends Component {
+  
   render() {
+    window.scrollTo(0, 0);
     return (
       <div>
         <article class="blog">
+          <Return/>
           <h1>Non-Fungible Life</h1>
           <p>
             This short essay intends to be a critical piece on the internet art

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Homepage from "../assets/Homepage.png";
+import Homepage from "../assets/Homepage-Wireframe.png";
 import Header from '../components/Header';
 import Blogs from "../assets/Blogs.png"
 import Portfolio from "../assets/Portfolio.png";
@@ -9,6 +9,7 @@ import font from "../assets/Font.png";
 import "../styles/Wireframes.css";
 export default class Wireframes extends Component {
     render() {
+        window.scrollTo(0, 0);
         return (
             <div>
                 <Header headline = "Wireframes"/>

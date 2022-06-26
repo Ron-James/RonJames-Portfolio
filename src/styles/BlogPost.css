@@ -19,8 +19,11 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  padding-top: 30px;
 }
 .blogImageTitle{
   font-style: bold;
   font-size: 17px;
+  text-align: center;
+  padding-bottom: 40px;
 }

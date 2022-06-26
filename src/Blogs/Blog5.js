@@ -5,11 +5,14 @@ import colors from "../assets/New Color Breakdown.png";
 import font from "../assets/Font.png";
 import ps3 from "../assets/PS3Menu.png";
 import portfolioWire from "../assets/Portfolio.png";
+import Return from "../components/Return";
 
 export default class Blog5 extends Component {
   render() {
+    window.scrollTo(0, 0);
     return (
       <div>
+        <Return/>
         <article class="blog">
           <h1>Internet Artwork - Preparatory Work</h1>
           <p>

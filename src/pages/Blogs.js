@@ -4,6 +4,7 @@ import Reference from "../components/Reference";
 import Header from "../components/Header";
 export default class Blogs extends Component {
   render() {
+    window.scrollTo(0, 0);
     return (
       <div>
         <Header headline="Blog Posts" />
@@ -33,6 +34,21 @@ export default class Blogs extends Component {
           Title="Reflection Part 2"
           Image="Ref.png"
           Link="/blog7"
+        />
+        <BlogPreview
+          Title="Technical Reflection"
+          Image="computer.png"
+          Link="/blog8"
+        />
+        <BlogPreview
+          Title="Design Reflection"
+          Image="design.png"
+          Link="/blog9"
+        />
+        <BlogPreview
+          Title="Final Internet Artwork Rationale and Reflection"
+          Image="art.png"
+          Link="/blog10"
         />
       </div>
     );

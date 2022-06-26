@@ -12,15 +12,21 @@ export default class Navbar extends Component {
         };
         this.toggleNav = this.toggleNav.bind(this);
     }
-
+    turnOffLinks() {
+        this.setState(({
+            openLinks: false
+        }));
+    }
     toggleNav() {
         this.setState(prevState => ({
             openLinks: !prevState.openLinks
         }));
         
     }
+    
 
     render() {
+        
         return (
             <div className="navbar">
                 <div className="leftPiece" id = {this.state.openLinks ? "open" : "close"}>

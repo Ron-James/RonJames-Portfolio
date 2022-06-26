@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import "../styles/References.css";
 export default class Reference extends Component {
   render() {
     return (

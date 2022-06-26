@@ -1,36 +1,46 @@
-.start {
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  margin-bottom: 20px;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
-.hero {
-  width: 100%;
-  position: relative;
-}
-.hero img {
-  top: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+body {
+  font-size: 18px;
 }
 
-.headline {
-  position: absolute;
-  top: -20%;
-  left: 15%;
-  font-size: 100px;
-  transform: translate(-10%, 70%);
-  color: white;
-  z-index: 2;
+#hero {
+  height: 89vh;
+  width: 100%;
+  background: url("../assets/GradientHeader.png") no-repeat center bottom / cover;
+  color: whitesmoke;
 }
-.subTitle{
-  position: absolute;
-  top: 100px;
-  left: 400px;
-  font-size: 40px;
-  color: white;
-  z-index: 2;
+.container {
+  width: 90%;
+  height: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  /*   text-align: center; */
+}
+#hero .info h1 {
+  font-size: 3rem;
+  /* text-transform: uppercase; */
+  margin-bottom: 0.3rem;
+}
+#hero .info h2 {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+#hero .info p {
+  font-size: 1.2rem;
+  max-width: 50%;
+}
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 10px;
+  }
 }
 
 .wave {
@@ -63,7 +73,7 @@
     background-position-x: 0;
   }
 
-  100%{
+  100% {
     background-position-x: 1000px;
   }
 }
@@ -72,7 +82,7 @@
     background-position-x: 0;
   }
 
-  100%{
+  100% {
     background-position-x: -1000px;
   }
 }
