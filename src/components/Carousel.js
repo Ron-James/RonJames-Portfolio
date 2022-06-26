@@ -4,10 +4,6 @@ import { useState } from "react";
 import Slider from "react-slick";
 
 //Change later
-import astronaut from "../assets/astronaut.png";
-import celebrating from "../assets/celebrating.png";
-import education from "../assets/education.png";
-import taken from "../assets/taken.png";
 import { FaArrowRight, FaArrowLeft } from "react-icons/fa";
 
 import bloons from "../assets/Bloons.png";
