@@ -6,6 +6,7 @@ import Logo from "../components/Logo";
 import Hero from "../components/Hero";
 import TextSection from "../components/TextSection";
 import Media from "../components/Media";
+import WeatherCard from "../components/WeatherCard";
 
 export default class Home extends Component {
   render() {
@@ -85,7 +86,8 @@ export default class Home extends Component {
           Title="Take a Look!"
           TextColor="whitesmoke"
         />
-        <Media/>
+        <Media />
+        
       </div>
     );
   }
