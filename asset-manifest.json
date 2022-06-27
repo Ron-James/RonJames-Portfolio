@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RonJames-Portfolio/static/css/main.231192c3.css",
-    "main.js": "/RonJames-Portfolio/static/js/main.f3e85d58.js",
+    "main.css": "/RonJames-Portfolio/static/css/main.24009da7.css",
+    "main.js": "/RonJames-Portfolio/static/js/main.5e883fb4.js",
     "static/js/787.37faa4c4.chunk.js": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js",
     "static/media/Bloons.png": "/RonJames-Portfolio/static/media/Bloons.9afeddc7758b92fcc17a.png",
     "static/media/temp_Logo.jpg": "/RonJames-Portfolio/static/media/temp_Logo.f488aa403a636d7f33fb.jpg",
@@ -44,20 +44,29 @@
     "static/media/taken.png": "/RonJames-Portfolio/static/media/taken.2ed51fa24f22008a8149.png",
     "static/media/interface.png": "/RonJames-Portfolio/static/media/interface.1c69352e7543b23f84a9.png",
     "static/media/astronaut.png": "/RonJames-Portfolio/static/media/astronaut.17055b5f2517af0a8293.png",
+    "static/media/drizzle_night.png": "/RonJames-Portfolio/static/media/drizzle_night.0de6653bd5cb6981b356.png",
+    "static/media/drizzle_day.png": "/RonJames-Portfolio/static/media/drizzle_day.f009e441a604361a2783.png",
     "static/media/wave2.png": "/RonJames-Portfolio/static/media/wave2.ca4301f1bbdfe7a9b967.png",
     "static/media/New Color Breakdown.png": "/RonJames-Portfolio/static/media/New Color Breakdown.b7fe92ade8d409af21bf.png",
     "static/media/instagram.png": "/RonJames-Portfolio/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/night_cloudy.png": "/RonJames-Portfolio/static/media/night_cloudy.9f48991e6f815077ae98.png",
+    "static/media/storm_day.png": "/RonJames-Portfolio/static/media/storm_day.cc27487cf3dd715a502b.png",
+    "static/media/storm_night.png": "/RonJames-Portfolio/static/media/storm_night.4f08123225de80c42f76.png",
+    "static/media/day_cloudy.png": "/RonJames-Portfolio/static/media/day_cloudy.a6d0b7d87d2022baaf47.png",
+    "static/media/rainy.png": "/RonJames-Portfolio/static/media/rainy.cfc1c8ddf2b3bcb98cec.png",
+    "static/media/night.png": "/RonJames-Portfolio/static/media/night.9576a19593f7a4f406d5.png",
+    "static/media/sun.png": "/RonJames-Portfolio/static/media/sun.0b43f5c98c23439dcf48.png",
     "static/media/slick.svg": "/RonJames-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/RonJames-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/RonJames-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/RonJames-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/RonJames-Portfolio/index.html",
-    "main.231192c3.css.map": "/RonJames-Portfolio/static/css/main.231192c3.css.map",
-    "main.f3e85d58.js.map": "/RonJames-Portfolio/static/js/main.f3e85d58.js.map",
+    "main.24009da7.css.map": "/RonJames-Portfolio/static/css/main.24009da7.css.map",
+    "main.5e883fb4.js.map": "/RonJames-Portfolio/static/js/main.5e883fb4.js.map",
     "787.37faa4c4.chunk.js.map": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.231192c3.css",
-    "static/js/main.f3e85d58.js"
+    "static/css/main.24009da7.css",
+    "static/js/main.5e883fb4.js"
   ]
 }
