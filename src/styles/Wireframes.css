@@ -6,4 +6,17 @@ img {
 }
 .Wireframes h1 {
   text-align: center;
+  
+
 }
+.Wireframes h2 {
+  text-align: center;
+  padding-top: 35px;
+}
+
+.Wireframes p{
+  text-align:  justify;
+  width: 50%;
+  margin: auto;
+}
+

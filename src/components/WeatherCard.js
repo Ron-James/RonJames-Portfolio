@@ -169,7 +169,7 @@ export default class WeatherCard extends Component {
             <h1 id="temp">{temp}&deg;</h1>
             <h3 id="desc">{cond}</h3>
 
-            <div className="details">
+            <div className="weatherDetails">
               <div>
                 <p className="value" id="minTemp">
                   {tempMin} &deg;

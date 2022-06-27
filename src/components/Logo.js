@@ -5,7 +5,7 @@ export default class Logo extends Component {
   render() {
     return (
       <div>
-        <header class="logo">
+        <header className="logo">
           <h1>Ron James Theron</h1>
           <h2>Software Engineer | Game Designer</h2>
         </header>
