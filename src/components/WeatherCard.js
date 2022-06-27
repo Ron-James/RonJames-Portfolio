@@ -9,6 +9,10 @@ import night from "../Icons/night.png";
 import rainy from "../Icons/rainy.png";
 import dayStorm from "../Icons/storm_day.png";
 import nightStorm from "../Icons/storm_night.png";
+
+//this code does not function as desired
+//it is not included on the website but I do not want to delete it so please ignore it for the sake of marking
+
 const weatherUrl =
   "https://api.openweathermap.org/data/2.5/weather?id=993800&units=metric&appid=53217561e22fa44ddb8df2b800ca3a59";
 const timeUrl = "https://worldtimeapi.org/api/timezone/Africa/Johannesburg";
@@ -23,7 +27,6 @@ let desc = "";
 let time = 0;
 let cond = "";
 let strTime = "19:20";
-
 
 function FetchWeatherData() {
   fetch(weatherUrl)
@@ -120,7 +123,7 @@ function SetIcon(condition) {
         icon.src = nightCloudy;
         console.log(icon.src);
       } else {
-        icon.src = dayCloudy ;
+        icon.src = dayCloudy;
         console.log(icon.src);
       }
       break;
@@ -163,8 +166,8 @@ export default class WeatherCard extends Component {
             </div>
           </section>
           <section className="content">
-            <h1 id="temp">{ temp }&deg;</h1>
-            <h3 id="desc">{ cond }</h3>
+            <h1 id="temp">{temp}&deg;</h1>
+            <h3 id="desc">{cond}</h3>
 
             <div className="details">
               <div>
