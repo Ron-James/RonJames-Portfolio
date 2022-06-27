@@ -12,6 +12,7 @@ import nightStorm from "../Icons/storm_night.png";
 
 //this code does not function as desired
 //it is not included on the website but I do not want to delete it so please ignore it for the sake of marking
+//This was just for testing purposes as I could not get it to work in the end
 
 const weatherUrl =
   "https://api.openweathermap.org/data/2.5/weather?id=993800&units=metric&appid=53217561e22fa44ddb8df2b800ca3a59";
