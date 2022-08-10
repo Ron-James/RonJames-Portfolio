@@ -71,7 +71,8 @@ const p1Array = [
     trade, "Rock, Paper Scissors, Dargon Ice" was an attempt at making a
     turn-based game with a unique selling point. The development time for the
     game was around 5 weeks. This was a solo project and all graphics,
-    programming and design were conducted by me.
+    programming and design were conducted by me. The aim for this game was to make an experimental
+    turn-based game so the standout work on this one was largely the UI and UX design.
   </p>,
 ];
 const p2Array = [
