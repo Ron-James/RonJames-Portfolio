@@ -25,7 +25,7 @@ export default class Home extends Component {
           Image="time.jpg"
           Sub=""
           Desc="Good Evening! My name is James 'Ron James' Theron. I'm a newly
-            qualified software engieer and game designer by trade. I'm qualified
+            qualified software engineer and game designer by trade. I'm qualified
             with a BSc in Engineering Sciences and Digital Arts from the
             University of the Witwatersrand. I'm currently searching for part
             time work in the software industry. My goal is to gather workplace
