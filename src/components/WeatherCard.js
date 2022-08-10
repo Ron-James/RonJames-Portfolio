@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "../styles/WeatherCard.css";
+//import "../styles/WeatherCard.css";
 import sun from "../Icons/sun.png";
 import dayCloudy from "../Icons/day_cloudy.png";
 import dayDrizzle from "../Icons/drizzle_day.png";

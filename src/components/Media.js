@@ -13,7 +13,7 @@ export default class Media extends Component {
           </a>
         </li>
         <li>
-          <a href="linkedin.com/in/james-theron-ba7833230">
+          <a href="https://www.linkedin.com/in/james-theron-ba7833230">
             <img src= {LinkedIn} alt="LinkedIn" />
           </a>
         </li>
