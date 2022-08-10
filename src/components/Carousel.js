@@ -28,6 +28,13 @@ const links = [
   "https://drive.google.com/file/d/1zx4z_NpTwYm9F1qeQzW1DsAdqBvjuQRX/view?usp=sharing",
   "https://drive.google.com/file/d/1IDma6jeI-GN-D2s17auAs0u-yPaKr8pm/view?usp=sharing",
 ];
+const gitLinks = [
+  "https://github.com/Ron-James/Bloons-High-Noon.git",
+  "https://github.com/JackFrathbone/WSOA3004A_Tim-1_Assigment-2.git",
+  "https://github.com/Ron-James/Pachinko-Panic.git",
+  "https://github.com/Ron-James/Puzzled-Billiards.git",
+  "https://github.com/Ron-James/RPSDI-Game.git"
+];
 const p1Array = [
   <p className="portfolioText">
     The project with the longest development time on this list, "B'loons at High
@@ -71,8 +78,9 @@ const p1Array = [
     trade, "Rock, Paper Scissors, Dargon Ice" was an attempt at making a
     turn-based game with a unique selling point. The development time for the
     game was around 5 weeks. This was a solo project and all graphics,
-    programming and design were conducted by me. The aim for this game was to make an experimental
-    turn-based game so the standout work on this one was largely the UI and UX design.
+    programming and design were conducted by me. The aim for this game was to
+    make an experimental turn-based game so the standout work on this one was
+    largely the UI and UX design.
   </p>,
 ];
 const p2Array = [
@@ -173,27 +181,28 @@ export default class Carousel extends Component {
       settings.slidesToShow = 1;
     }
     return (
-      <section id = "portfolio">
-      <div className="carousel">
-        <Slider {...settings}>
-          {images.map((img, idx) => (
-            <div
-              className={
-                idx === this.state.imageIndex ? "slide activeSlide" : "slide"
-              }
-            >
-              <img src={img} alt={img} />
-            </div>
-          ))}
-        </Slider>
-        <div className="details">
-          <h1>{titles[this.state.imageIndex]}</h1>
-          {p1Array[this.state.imageIndex]}
-          {p2Array[this.state.imageIndex]}
-          <a href={links[this.state.imageIndex]}>Download</a>
+      <section id="portfolio">
+        <div className="carousel">
+          <Slider {...settings}>
+            {images.map((img, idx) => (
+              <div
+                className={
+                  idx === this.state.imageIndex ? "slide activeSlide" : "slide"
+                }
+              >
+                <img src={img} alt={img} />
+              </div>
+            ))}
+          </Slider>
+          <div className="details">
+            <h1>{titles[this.state.imageIndex]}</h1>
+            {p1Array[this.state.imageIndex]}
+            {p2Array[this.state.imageIndex]}
+            <a href={links[this.state.imageIndex]}>Download</a>
+            <a href={gitLinks[this.state.imageIndex]}>View Git project</a>
+          </div>
         </div>
-        </div>
-        </section>
+      </section>
     );
   }
 }
