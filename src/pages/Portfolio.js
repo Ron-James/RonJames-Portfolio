@@ -10,8 +10,8 @@ export default class Portfolio extends Component {
         <Hero
           Title="Portfolio"
           Sub=""
-          Desc="Take a loot at a few of the software projects 
-          which I have worked on. Builds for the unity projects 
+          Desc="Take a look at a few of the software projects 
+          I've worked on. Builds for the unity projects 
           can be downloaded with highlighted link"
         />
         <Carousel />
