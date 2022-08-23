@@ -54,14 +54,14 @@ body {
 }
 .wave.wave1 {
   animation: animate 30s linear infinite;
-  z-index: 100;
+  z-index: 90;
   opacity: 0.2;
   animation-delay: 0s;
   bottom: 0;
 }
 .wave.wave2 {
   animation: animate2 15s linear infinite;
-  z-index: 99;
+  z-index: 91;
   opacity: 0.3;
   animation-delay: -2s;
   bottom: 0px;
