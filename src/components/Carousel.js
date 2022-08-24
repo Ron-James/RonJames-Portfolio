@@ -11,18 +11,21 @@ import pachi from "../assets/Pachi.png";
 import rock from "../assets/Rock.png";
 import springperson from "../assets/Springperson.png";
 import puzzled from "../assets/Puzzled.png";
+import shipBreaker from "../assets/Shipbreakers.png" 
 
 import "../styles/Carousel.css";
-const images = [bloons, springperson, pachi, puzzled, rock];
+const images = [bloons, springperson, shipBreaker, pachi, puzzled, rock];
 const titles = [
   "B'loons at High Noon",
   "Springperson",
+  "Ship Breakers",
   "Pachinko Panic",
   "Puzzled Billiards",
   "Rock, Paper, Scissors, Dragon, Ice",
 ];
 const links = [
   "https://drive.google.com/file/d/1_iqtObQ4wkMj3dYM4FMN12mDiq8Iufnl/view?usp=sharing",
+  "https://drive.google.com/file/d/1JUcKVhLslrBdDQaGQVrSNy136MLT8IZ2/view?usp=sharing",
   "https://drive.google.com/file/d/1JUcKVhLslrBdDQaGQVrSNy136MLT8IZ2/view?usp=sharing",
   "https://drive.google.com/file/d/19-5iLKjhOfWrMgXKuN72vTCrgjun1Ddb/view?usp=sharing",
   "https://drive.google.com/file/d/1zx4z_NpTwYm9F1qeQzW1DsAdqBvjuQRX/view?usp=sharing",
@@ -33,7 +36,7 @@ const gitLinks = [
   "https://github.com/JackFrathbone/WSOA3004A_Tim-1_Assigment-2.git",
   "https://github.com/Ron-James/Pachinko-Panic.git",
   "https://github.com/Ron-James/Puzzled-Billiards.git",
-  "https://github.com/Ron-James/RPSDI-Game.git"
+  "https://github.com/Ron-James/RPSDI-Game.git",
 ];
 const p1Array = [
   <p className="portfolioText">
@@ -57,6 +60,12 @@ const p1Array = [
     documentation involved in the project. The development time of the game was
     3 weeks. The game draws comparisons with high-intensity first-person
     shooters like Quake and DOOM.
+  </p>,
+  <p className="portfolioText">
+    Ship Breakers is an exam project developed solely by me. Development time
+    lasted around 4 weeks. I was quite happy with the way the game turned out as
+    the feedback was very positive. The game is intended to be a vertical slice
+    of a potentially larger game.
   </p>,
   <p className="portfolioText">
     "Pachinko Panic!" was another game jam project developed by a team of 3
@@ -104,6 +113,19 @@ const p2Array = [
     run out of health. The following documentation will discuss the game’s
     development process and the intention behind its creation, as well as
     critically reflect on the success or failure of meeting said intention
+  </p>,
+  <p className="portfolioText">
+    Ship Breakers is a top-down, digital game which involves the player moving a
+    ship up and down a 2-dimensional plane and shooting incoming asteroids on
+    one side of the screen whilst simultaneously managing their ship’s damaged
+    parts on the other side of the screen. The goal of each stage is to avoid
+    getting hit and losing all of their lives for enough time to reach their
+    destination. As the player destroys the incoming asteroids and/or enemies,
+    they can collect upgrade points which allow them to fix up the damaged parts
+    of the ship by committing them to the various damaged areas. Whilst managing
+    the ship repairs, the player must also manage their ship’s limited
+    ammunition. Ammo may be replenished by committing upgrade points or by
+    collecting certain collectables which restore ammo.
   </p>,
   <p className="portfolioText">
     Pachinko Panic is a single player, 2D digital gambling arcade game which
