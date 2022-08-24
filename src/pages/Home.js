@@ -16,7 +16,7 @@ export default class Home extends Component {
         <Hero
           Title="Ron James Theron"
           Sub="Game Designer | Software Engineer"
-          Desc="Welcome to my portfolio website! this is intended to 
+          Desc="Welcome to my portfolio! This is intended to 
             compliment my resume and be a space to show of the various 
             software projects I have been involved in."
         />
@@ -27,8 +27,8 @@ export default class Home extends Component {
           Desc="Good Evening! My name is James 'Ron James' Theron. I'm a newly
             qualified software engineer and game designer by trade. I'm qualified
             with a BSc in Engineering Sciences and Digital Arts from the
-            University of the Witwatersrand. I'm currently searching for part
-            time work in the software industry. My goal is to gather workplace
+            University of the Witwatersrand. I'm a hardworking student hoping to find 
+            my way into the software and game development industry. My goal is to gather workplace
             experience in software development to expand my horizons to further
             delve into the business of writing code."
           Title="About Me"
@@ -87,7 +87,6 @@ export default class Home extends Component {
           TextColor="whitesmoke"
         />
         <Media />
-        
       </div>
     );
   }
