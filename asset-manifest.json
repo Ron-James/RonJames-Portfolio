@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RonJames-Portfolio/static/css/main.4ee1963b.css",
-    "main.js": "/RonJames-Portfolio/static/js/main.4d158e68.js",
+    "main.css": "/RonJames-Portfolio/static/css/main.3f7c8e34.css",
+    "main.js": "/RonJames-Portfolio/static/js/main.2fefb555.js",
     "static/js/787.37faa4c4.chunk.js": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js",
     "static/media/Bloons.png": "/RonJames-Portfolio/static/media/Bloons.9afeddc7758b92fcc17a.png",
     "static/media/temp_Logo.jpg": "/RonJames-Portfolio/static/media/temp_Logo.f488aa403a636d7f33fb.jpg",
@@ -15,6 +15,7 @@
     "static/media/sky.jpg": "/RonJames-Portfolio/static/media/sky.ed4a1ccacc08eb609e56.jpg",
     "static/media/time.jpg": "/RonJames-Portfolio/static/media/time.7a1a7b876348dca6d217.jpg",
     "static/media/astro.jpg": "/RonJames-Portfolio/static/media/astro.ce2b62ddc8da79096c8e.jpg",
+    "static/media/pitch.jpg": "/RonJames-Portfolio/static/media/pitch.7015fe57a1ba791710af.jpg",
     "static/media/NFT.png": "/RonJames-Portfolio/static/media/NFT.37b073688dcc178ab986.png",
     "static/media/island.png": "/RonJames-Portfolio/static/media/island.db95f96dff45228fd7c7.png",
     "static/media/computer.png": "/RonJames-Portfolio/static/media/computer.047c3b1b80126894a0a4.png",
@@ -25,6 +26,7 @@
     "static/media/Homepage-Wireframe.png": "/RonJames-Portfolio/static/media/Homepage-Wireframe.98af47d3a1e3bbaabba3.png",
     "static/media/dragon.jpg": "/RonJames-Portfolio/static/media/dragon.698593683f6e59357107.jpg",
     "static/media/Text Sections.png": "/RonJames-Portfolio/static/media/Text Sections.9cf14e4f678c368a58ba.png",
+    "static/media/lighthouse.jpg": "/RonJames-Portfolio/static/media/lighthouse.d162884ee8654c84ec12.jpg",
     "static/media/Abstract.png": "/RonJames-Portfolio/static/media/Abstract.977d29073cb8f5862ae4.png",
     "static/media/GradientHeader.png": "/RonJames-Portfolio/static/media/GradientHeader.ef3e2ba1539dccbc0870.png",
     "static/media/country.jpg": "/RonJames-Portfolio/static/media/country.94b3bbe953a5ceea5a07.jpg",
@@ -62,12 +64,12 @@
     "static/media/slick.ttf": "/RonJames-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/RonJames-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/RonJames-Portfolio/index.html",
-    "main.4ee1963b.css.map": "/RonJames-Portfolio/static/css/main.4ee1963b.css.map",
-    "main.4d158e68.js.map": "/RonJames-Portfolio/static/js/main.4d158e68.js.map",
+    "main.3f7c8e34.css.map": "/RonJames-Portfolio/static/css/main.3f7c8e34.css.map",
+    "main.2fefb555.js.map": "/RonJames-Portfolio/static/js/main.2fefb555.js.map",
     "787.37faa4c4.chunk.js.map": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ee1963b.css",
-    "static/js/main.4d158e68.js"
+    "static/css/main.3f7c8e34.css",
+    "static/js/main.2fefb555.js"
   ]
 }
