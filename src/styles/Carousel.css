@@ -7,7 +7,7 @@
   padding-top: 50px;
 }
 .carousel {
-  width: 70%;
+  width: 100%;
   margin: 3rem auto;
   
   
@@ -15,8 +15,9 @@
 
 
 .slide img {
-  width: 20rem;
+  width: 100%;
   margin: 0 auto;
+  height: auto;
 }
 
 .slide {
@@ -30,9 +31,12 @@
   opacity: 1;
 }
 .arrow {
+  margin-left: 50px;
+  margin-right: 50px;
   background-color: transparent;
   position: absolute;
   cursor: pointer;
+  
   z-index: 10;
 }
 
