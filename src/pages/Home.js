@@ -81,7 +81,7 @@ export default class Home extends Component {
           Image="pitch.jpg"
           Sub=""
           Desc="I enjoy reading and hiking in my spare time aside from playing games. I consider myself to 
-          be a games enthusiast so I enjoy watching sports and engaging with computer and tabletop games. I enjoy music and am actively trying to improve my singing ability
+          be a games enthusiast so I enjoy watching sports and engaging with computer and tabletop games.
           I work to maintain my mental health with physical exercise and meditation. I am generally open to finding 
           new hobbies when the opportunity arises."
           Title="My Personal Interests"
