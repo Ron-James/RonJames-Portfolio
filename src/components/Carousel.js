@@ -11,11 +11,13 @@ import pachi from "../assets/Pachi.png";
 import rock from "../assets/Rock.png";
 import springperson from "../assets/Springperson.png";
 import puzzled from "../assets/Puzzled.png";
-import shipBreaker from "../assets/Shipbreakers.png" 
+import shipBreaker from "../assets/Shipbreakers.png";
+import battleship from "../assets/BattleshipBrickBreaker.png";
 
 import "../styles/Carousel.css";
-const images = [bloons, springperson, shipBreaker, pachi, puzzled, rock];
+const images = [battleship, bloons, springperson, shipBreaker, pachi, puzzled, rock];
 const titles = [
+  "Battleship Brick Breaker",
   "B'loons at High Noon",
   "Springperson",
   "Ship Breakers",
@@ -24,6 +26,7 @@ const titles = [
   "Rock, Paper, Scissors, Dragon, Ice",
 ];
 const links = [
+  "https://theronjames.itch.io/battleshipbrickbreaker",
   "https://drive.google.com/file/d/1_iqtObQ4wkMj3dYM4FMN12mDiq8Iufnl/view?usp=sharing",
   "https://drive.google.com/file/d/1JUcKVhLslrBdDQaGQVrSNy136MLT8IZ2/view?usp=sharing",
   "https://drive.google.com/file/d/1JUcKVhLslrBdDQaGQVrSNy136MLT8IZ2/view?usp=sharing",
@@ -32,6 +35,7 @@ const links = [
   "https://drive.google.com/file/d/1IDma6jeI-GN-D2s17auAs0u-yPaKr8pm/view?usp=sharing",
 ];
 const gitLinks = [
+  "https://github.com/Ron-James/BattleshipBrickBreakerNew.git",
   "https://github.com/Ron-James/Bloons-High-Noon.git",
   "https://github.com/JackFrathbone/WSOA3004A_Tim-1_Assigment-2.git",
   "https://github.com/Ron-James/Ship-Breakers.git",
@@ -40,6 +44,14 @@ const gitLinks = [
   "https://github.com/Ron-James/RPSDI-Game.git",
 ];
 const p1Array = [
+  <p className="portfolioText">
+    A mobile game project which I started developing in July 2022, Battleship
+    Brick Breaker is an ongoing passion project of mine. It was initially
+    developed solely my me but has later aquired some assisting team members.
+    This is one of the few games on this list which hopes to be funded and fully
+    published.
+  </p>,
+
   <p className="portfolioText">
     The project with the longest development time on this list, "B'loons at High
     Noon" was developed by a two-man team that included me and Daniel Burke. As
@@ -95,6 +107,17 @@ const p1Array = [
 ];
 const p2Array = [
   <p className="portfolioText">
+    Battleship Brick Breaker is a PVP, physics-based game which will be
+    primarily designed to be played on mobile devices. The game involves two
+    players who battle to destroy the bricks laid out before them. They will
+    remove these bricks using a ball (see game Brick Breaker for reference).
+    Each player will control their battleship which will act as a paddle to
+    launch a ball as well as keep it in play, similarly to how a ball is hit
+    back and forth in Pong. The goal of the game will be to destroy all of a
+    specific type of brick from the layout of bricks presented to them. The
+    first of the two players to reach this objective is the winner of the match.
+  </p>,
+  <p className="portfolioText">
     B’Loons at High Noon is intended to merge the common conventions of the
     First-Person and Tower Defence genres. The game is not meant to be a
     First-Person shooter wherein the player becomes an offensive tower. They
@@ -104,7 +127,7 @@ const p2Array = [
     limitations and the Tower-Defence genre conventions required as to set
     constraints, the first of these was to specify the locations of towers, this
     forces the player to move around the environment to construct their strategy
-    and maintain their towers
+    and maintain their towers.
   </p>,
   <p className="portfolioText">
     Spring Person is a 3D first-person shooter game. Players move around the
