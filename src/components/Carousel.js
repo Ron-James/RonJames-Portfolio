@@ -15,7 +15,15 @@ import shipBreaker from "../assets/Shipbreakers.png";
 import battleship from "../assets/BattleshipBrickBreaker.png";
 
 import "../styles/Carousel.css";
-const images = [battleship, bloons, springperson, shipBreaker, pachi, puzzled, rock];
+const images = [
+  battleship,
+  bloons,
+  springperson,
+  shipBreaker,
+  pachi,
+  puzzled,
+  rock,
+];
 const titles = [
   "Battleship Brick Breaker",
   "B'loons at High Noon",
@@ -48,8 +56,8 @@ const p1Array = [
     A mobile game project which I started developing in July 2022, Battleship
     Brick Breaker is an ongoing passion project of mine. It was initially
     developed solely my me but has later aquired some assisting team members.
-    This is one of the few games on this list which hopes to be funded and fully
-    published.
+    The game is published on Itch.io and is available for Android devices. It is
+    aiming to later be released on the google play and IOS stores.
   </p>,
 
   <p className="portfolioText">
