@@ -26,7 +26,7 @@ export default class Home extends Component {
           Sub=""
           Desc="Good Evening! My name is James 'Ron James' Theron. I'm a newly
             qualified software engineer and game designer by trade. I'm qualified
-            with a BSc in Engineering Sciences and Digital Arts from the
+            with a BSc in Engineering Sciences and have my honours in Game Design and Interactive Development from the
             University of the Witwatersrand. I'm a hardworking student hoping to find 
             my way into the software and game development industry. My goal is to gather workplace
             experience in software development to expand my horizons to further
