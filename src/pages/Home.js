@@ -22,7 +22,7 @@ export default class Home extends Component {
         />
 
         <TextSection
-          Image="time.jpg"
+          Image="fantasy.jpg"
           Sub=""
           Desc="Good Evening! My name is James 'Ron James' Theron. I'm a newly
             qualified software engineer and game designer by trade. I'm qualified
@@ -32,7 +32,7 @@ export default class Home extends Component {
             experience in software development to expand my horizons to further
             delve into the business of writing code."
           Title="About Me"
-          TextColor="whitesmoke"
+          TextColor="white"
         />
         <TextSection
           Image="dragon.jpg"
