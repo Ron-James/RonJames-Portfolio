@@ -33,9 +33,11 @@
 .arrow {
   margin-left: 50px;
   margin-right: 50px;
+  
   background-color: transparent;
   position: absolute;
   cursor: pointer;
+  font-size: 60px;
   
   z-index: 10;
 }

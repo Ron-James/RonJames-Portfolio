@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Carousel from "../components/Carousel";
 import Header from "../components/Header";
 import Hero from "../components/Hero";
+import Media from "../components/Media";
 export default class Portfolio extends Component {
   render() {
     window.scrollTo(0, 0);
@@ -15,6 +16,7 @@ export default class Portfolio extends Component {
           can be downloaded with highlighted link"
         />
         <Carousel />
+        <Media />
       </div>
     );
   }

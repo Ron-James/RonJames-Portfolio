@@ -26,7 +26,7 @@ export default class BlogPreview extends Component {
                     <img src ={images[this.props.Image]}/>
                     <div>
                         <h3>{this.props.Title}</h3>
-                        <Link to= {this.props.Link}>Click here to read</Link>
+                        <a href={this.props.Link} target="_blank">Download</a>
                     </div>
                 </section>
             </div>

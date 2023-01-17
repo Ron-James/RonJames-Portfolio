@@ -25,6 +25,7 @@ import Blog10 from "./Blogs/Blog10";
 
 import Reference from "./components/Reference";
 import Wireframes from "./pages/Wireframes";
+import CodeSnippets from "./pages/CodeSnippets";
 
 function App() {
   return (
@@ -34,8 +35,9 @@ function App() {
       <Routes>
         <Route exact path="/RonJames-Portfolio" element={<Home />} />
         <Route exact path="/contact" element={<Contact />} />
-        <Route exact path="/blogs" element={<Blogs />} />
+        <Route exact path="/docs" element={<Blogs />} />
         <Route exact path="/portfolio" element={<Portfolio />} />
+        <Route exact path="/codeSnippets" element={<CodeSnippets />} />
         <Route exact path="/wireframes" element={<Wireframes />} />
         <Route exact path="/blog1" element={<Blog1 />} />
         <Route exact path="/blog2" element={<Blog2 />} />
