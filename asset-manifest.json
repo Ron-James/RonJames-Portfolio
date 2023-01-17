@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/RonJames-Portfolio/static/css/main.3f7c8e34.css",
-    "main.js": "/RonJames-Portfolio/static/js/main.8b725551.js",
+    "main.css": "/RonJames-Portfolio/static/css/main.db40e2bc.css",
+    "main.js": "/RonJames-Portfolio/static/js/main.b9e8d277.js",
     "static/js/787.37faa4c4.chunk.js": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js",
     "static/media/city.jpg": "/RonJames-Portfolio/static/media/city.ed099945eee8fcd09b35.jpg",
     "static/media/blossom.jpg": "/RonJames-Portfolio/static/media/blossom.93840dc1bf39934c9576.jpg",
+    "static/media/dice.jpg": "/RonJames-Portfolio/static/media/dice.91fd4f9dec845f07df8b.jpg",
     "static/media/Bloons.png": "/RonJames-Portfolio/static/media/Bloons.9afeddc7758b92fcc17a.png",
     "static/media/temp_Logo.jpg": "/RonJames-Portfolio/static/media/temp_Logo.f488aa403a636d7f33fb.jpg",
+    "static/media/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg": "/RonJames-Portfolio/static/media/lorenzo-herrera-p0j-mE6mGo4-unsplash.d6881ce2173e6f27da39.jpg",
     "static/media/BattleshipBrickBreaker.png": "/RonJames-Portfolio/static/media/BattleshipBrickBreaker.22df8312bfe52a596404.png",
     "static/media/Springperson.png": "/RonJames-Portfolio/static/media/Springperson.6beedc2b5bf1fde31ae3.png",
     "static/media/Prototype.png": "/RonJames-Portfolio/static/media/Prototype.0d1f1a719b0d3c40f3e3.png",
@@ -19,6 +21,7 @@
     "static/media/time.jpg": "/RonJames-Portfolio/static/media/time.7a1a7b876348dca6d217.jpg",
     "static/media/astro.jpg": "/RonJames-Portfolio/static/media/astro.ce2b62ddc8da79096c8e.jpg",
     "static/media/pitch.jpg": "/RonJames-Portfolio/static/media/pitch.7015fe57a1ba791710af.jpg",
+    "static/media/game.png": "/RonJames-Portfolio/static/media/game.a820ce3d0963e61e5a04.png",
     "static/media/NFT.png": "/RonJames-Portfolio/static/media/NFT.37b073688dcc178ab986.png",
     "static/media/island.png": "/RonJames-Portfolio/static/media/island.db95f96dff45228fd7c7.png",
     "static/media/computer.png": "/RonJames-Portfolio/static/media/computer.047c3b1b80126894a0a4.png",
@@ -49,6 +52,7 @@
     "static/media/celebrating.png": "/RonJames-Portfolio/static/media/celebrating.2d1dffe559a49e49a948.png",
     "static/media/taken.png": "/RonJames-Portfolio/static/media/taken.2ed51fa24f22008a8149.png",
     "static/media/interface.png": "/RonJames-Portfolio/static/media/interface.1c69352e7543b23f84a9.png",
+    "static/media/itch.png": "/RonJames-Portfolio/static/media/itch.01212b46e4ec536af64e.png",
     "static/media/astronaut.png": "/RonJames-Portfolio/static/media/astronaut.17055b5f2517af0a8293.png",
     "static/media/drizzle_night.png": "/RonJames-Portfolio/static/media/drizzle_night.0de6653bd5cb6981b356.png",
     "static/media/drizzle_day.png": "/RonJames-Portfolio/static/media/drizzle_day.f009e441a604361a2783.png",
@@ -67,12 +71,12 @@
     "static/media/slick.ttf": "/RonJames-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/RonJames-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/RonJames-Portfolio/index.html",
-    "main.3f7c8e34.css.map": "/RonJames-Portfolio/static/css/main.3f7c8e34.css.map",
-    "main.8b725551.js.map": "/RonJames-Portfolio/static/js/main.8b725551.js.map",
+    "main.db40e2bc.css.map": "/RonJames-Portfolio/static/css/main.db40e2bc.css.map",
+    "main.b9e8d277.js.map": "/RonJames-Portfolio/static/js/main.b9e8d277.js.map",
     "787.37faa4c4.chunk.js.map": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f7c8e34.css",
-    "static/js/main.8b725551.js"
+    "static/css/main.db40e2bc.css",
+    "static/js/main.b9e8d277.js"
   ]
 }
