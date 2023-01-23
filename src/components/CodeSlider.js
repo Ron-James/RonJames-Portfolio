@@ -14,7 +14,7 @@ import puzzled from "../assets/Puzzled.png";
 import shipBreaker from "../assets/Shipbreakers.png";
 import battleship from "../assets/BattleshipBrickBreaker.png";
 
-import "../styles/CodeSlider.css";
+import "../styles/Carousel.css";
 const images = [battleship, bloons, springperson,];
 
 const titles = [

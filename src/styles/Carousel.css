@@ -21,7 +21,7 @@
 }
 
 .slide {
-  transform: scale(0.5);
+  transform: scale(0.8);
   transition: transform 300ms;
   opacity: 0.4;
 }
@@ -33,12 +33,13 @@
 .arrow {
   margin-left: 50px;
   margin-right: 50px;
+  margin-top: -50px;
   
   background-color: transparent;
   position: absolute;
   cursor: pointer;
   font-size: 60px;
-  
+  color:  black;
   z-index: 10;
 }
 
@@ -47,7 +48,7 @@
 }
 
 .arrow svg:hover {
-  color: rgba(0, 42, 135, 0.95);
+  color: rgba(255, 255, 255, 0.95);
 }
 
 .next {

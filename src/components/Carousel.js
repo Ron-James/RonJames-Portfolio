@@ -253,7 +253,7 @@ export default class Carousel extends Component {
             {p1Array[this.state.imageIndex]}
             {p2Array[this.state.imageIndex]}
             <a href={links[this.state.imageIndex]}>Download</a>
-            <a href={gitLinks[this.state.imageIndex]}>View Git project</a>
+            <a href={gitLinks[this.state.imageIndex]}>Git project</a>
           </div>
         </div>
       </section>
