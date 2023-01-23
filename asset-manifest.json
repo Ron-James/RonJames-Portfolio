@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RonJames-Portfolio/static/css/main.88f4656c.css",
-    "main.js": "/RonJames-Portfolio/static/js/main.7252e2f3.js",
+    "main.js": "/RonJames-Portfolio/static/js/main.bbdb6648.js",
     "static/js/787.37faa4c4.chunk.js": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js",
     "static/media/city.jpg": "/RonJames-Portfolio/static/media/city.ed099945eee8fcd09b35.jpg",
     "static/media/blossom.jpg": "/RonJames-Portfolio/static/media/blossom.93840dc1bf39934c9576.jpg",
@@ -39,12 +39,14 @@
     "static/media/fantasy.jpg": "/RonJames-Portfolio/static/media/fantasy.c5aa28ddcb9e7bc35b42.jpg",
     "static/media/Puzzled.png": "/RonJames-Portfolio/static/media/Puzzled.14a433b707cc5fc613d4.png",
     "static/media/Portfolio.png": "/RonJames-Portfolio/static/media/Portfolio.7b76a75a3b41c0f1eee2.png",
+    "static/media/resume-g6a7c8be07_1920.png": "/RonJames-Portfolio/static/media/resume-g6a7c8be07_1920.71dd381f96002a5ef332.png",
     "static/media/Pachi.png": "/RonJames-Portfolio/static/media/Pachi.58cc85049a4817b7a1fb.png",
     "static/media/Homepage.png": "/RonJames-Portfolio/static/media/Homepage.296777012177e73f0763.png",
     "static/media/Shipbreakers.png": "/RonJames-Portfolio/static/media/Shipbreakers.b9b2f134defa31359da7.png",
     "static/media/computer.jpg": "/RonJames-Portfolio/static/media/computer.7b112f2e1d61dff1c18f.jpg",
     "static/media/lightBulbs.jpg": "/RonJames-Portfolio/static/media/lightBulbs.5965d735fa076e143ba6.jpg",
     "static/media/ATlogo.png": "/RonJames-Portfolio/static/media/ATlogo.2178f6d9d3f13f423fc8.png",
+    "static/media/resume.png": "/RonJames-Portfolio/static/media/resume.aac3ef13fb1682b90020.png",
     "static/media/Blogs.png": "/RonJames-Portfolio/static/media/Blogs.0b3202fa925bf3d5c79d.png",
     "static/media/Rock.png": "/RonJames-Portfolio/static/media/Rock.04405aaef0812f65fb36.png",
     "static/media/Color Breakdown.png": "/RonJames-Portfolio/static/media/Color Breakdown.618f5681631923df28a6.png",
@@ -72,11 +74,11 @@
     "static/media/slick.woff": "/RonJames-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/RonJames-Portfolio/index.html",
     "main.88f4656c.css.map": "/RonJames-Portfolio/static/css/main.88f4656c.css.map",
-    "main.7252e2f3.js.map": "/RonJames-Portfolio/static/js/main.7252e2f3.js.map",
+    "main.bbdb6648.js.map": "/RonJames-Portfolio/static/js/main.bbdb6648.js.map",
     "787.37faa4c4.chunk.js.map": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88f4656c.css",
-    "static/js/main.7252e2f3.js"
+    "static/js/main.bbdb6648.js"
   ]
 }
