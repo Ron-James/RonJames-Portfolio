@@ -11,7 +11,7 @@ export default class Contact extends Component {
         <Hero
           Title="Contact Me"
           Sub=""
-          Desc="Email me directly at jajotheron@gmail.com or find me out on LinkedIn, Itch.io or Github using the icons below"
+          Desc="Email me directly at jajotheron@gmail.com or find me on LinkedIn, Itch.io or Github using the icons below"
         />
         <Media />
       </div>

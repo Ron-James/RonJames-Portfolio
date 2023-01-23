@@ -20,7 +20,7 @@ export default class Blogs extends Component {
 
         <BlogPreview Title="Game Design Documentation" Image="game.png" Link="https://github.com/Ron-James/MyGameDocs.git" />
 
-        <BlogPreview Title="Resume" Image="game.png" Link="https://drive.google.com/file/d/1___-EbRSokBQVJVzKk9qdb7_RI_vrX8m/view?usp=sharing" />
+        <BlogPreview Title="Résumé" Image="resume.png" Link="https://drive.google.com/file/d/1___-EbRSokBQVJVzKk9qdb7_RI_vrX8m/view?usp=sharing" />
 
         <Media />
       </div>
