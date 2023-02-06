@@ -22,7 +22,7 @@ export default class Home extends Component {
         />
 
         <TextSection
-          Image="city.jpg"
+          Image="road.jpg"
           Sub=""
           Desc="Good Evening! My name is James 'Ron James' Theron. I'm a newly
             qualified software engineer and game designer by trade. I'm qualified

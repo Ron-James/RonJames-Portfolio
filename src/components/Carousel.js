@@ -13,9 +13,11 @@ import springperson from "../assets/Springperson.png";
 import puzzled from "../assets/Puzzled.png";
 import shipBreaker from "../assets/Shipbreakers.png";
 import battleship from "../assets/BattleshipBrickBreaker.png";
+import roots from "../assets/roots.png";
 
 import "../styles/Carousel.css";
 const images = [
+  roots,
   battleship,
   bloons,
   springperson,
@@ -25,6 +27,7 @@ const images = [
   rock,
 ];
 const titles = [
+  "Root Rebellion",
   "Battleship Brick Breaker",
   "B'loons at High Noon",
   "Springperson",
@@ -34,6 +37,7 @@ const titles = [
   "Rock, Paper, Scissors, Dragon, Ice",
 ];
 const links = [
+  "https://theronjames.itch.io/root-rebellion",
   "https://theronjames.itch.io/battleshipbrickbreaker",
   "https://drive.google.com/file/d/1_iqtObQ4wkMj3dYM4FMN12mDiq8Iufnl/view?usp=sharing",
   "https://drive.google.com/file/d/1JUcKVhLslrBdDQaGQVrSNy136MLT8IZ2/view?usp=sharing",
@@ -43,6 +47,7 @@ const links = [
   "https://drive.google.com/file/d/1IDma6jeI-GN-D2s17auAs0u-yPaKr8pm/view?usp=sharing",
 ];
 const gitLinks = [
+  "https://github.com/Ron-James/Isosceles-Slicer.git",
   "https://github.com/Ron-James/BattleshipBrickBreakerNew.git",
   "https://github.com/Ron-James/Bloons-High-Noon.git",
   "https://github.com/JackFrathbone/WSOA3004A_Tim-1_Assigment-2.git",
@@ -52,6 +57,16 @@ const gitLinks = [
   "https://github.com/Ron-James/RPSDI-Game.git",
 ];
 const p1Array = [
+  <p className="portfolioText">
+    Root Rebellion was a game jam project developed for the 2023 Global Game
+    Jam. The development team consisted of three members which included me,
+    Jacques Coetzee and Dayna Vos. I took on the role of lead developer as well
+    as team leader as I was the most experienced member in terms of digital game
+    development. The majority of the scripting and unity work was taken on by
+    myself with assistance from other team members. The development time for
+    this project lasted exactly 1 week. The game was published on Itch.io and
+    submitted as part of the Global Game Jam.
+  </p>,
   <p className="portfolioText">
     A mobile game project which I started developing in July 2022, Battleship
     Brick Breaker is an ongoing passion project of mine. It was initially
@@ -114,6 +129,16 @@ const p1Array = [
   </p>,
 ];
 const p2Array = [
+  <p className="portfolioText">
+    Root Rebellion is a single player point defence game. The player involved
+    controls a triangular character with a dash ability which they use to
+    destroy enemies. The objective of the game is to defend a series of four
+    roots which grow diagonally from a central core. The player must prevent the
+    enemies from reaching the central core to avoid the failed state. Meanwhile,
+    the roots grow at an increasing rate towards a surrounding ring of water. If
+    one of the roots is able to reach the water, the player completes the
+    objective.
+  </p>,
   <p className="portfolioText">
     Battleship Brick Breaker is a PVP, physics-based game which will be
     primarily designed to be played on mobile devices. The game involves two
