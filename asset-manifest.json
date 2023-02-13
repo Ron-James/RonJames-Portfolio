@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RonJames-Portfolio/static/css/main.88f4656c.css",
-    "main.js": "/RonJames-Portfolio/static/js/main.bf835a43.js",
+    "main.css": "/RonJames-Portfolio/static/css/main.e9cddfa6.css",
+    "main.js": "/RonJames-Portfolio/static/js/main.096a965a.js",
     "static/js/787.37faa4c4.chunk.js": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js",
     "static/media/city.jpg": "/RonJames-Portfolio/static/media/city.ed099945eee8fcd09b35.jpg",
     "static/media/blossom.jpg": "/RonJames-Portfolio/static/media/blossom.93840dc1bf39934c9576.jpg",
@@ -76,12 +76,12 @@
     "static/media/slick.ttf": "/RonJames-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/RonJames-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/RonJames-Portfolio/index.html",
-    "main.88f4656c.css.map": "/RonJames-Portfolio/static/css/main.88f4656c.css.map",
-    "main.bf835a43.js.map": "/RonJames-Portfolio/static/js/main.bf835a43.js.map",
+    "main.e9cddfa6.css.map": "/RonJames-Portfolio/static/css/main.e9cddfa6.css.map",
+    "main.096a965a.js.map": "/RonJames-Portfolio/static/js/main.096a965a.js.map",
     "787.37faa4c4.chunk.js.map": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88f4656c.css",
-    "static/js/main.bf835a43.js"
+    "static/css/main.e9cddfa6.css",
+    "static/js/main.096a965a.js"
   ]
 }
