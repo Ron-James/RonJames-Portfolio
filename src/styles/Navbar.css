@@ -132,6 +132,12 @@
     display: inherit;
     background-color: transparent
   }
+  .navbar a{
+    font-size: 10px;
+  }
+  .navbar h1{
+    font-size:  20px;
+  }
 }
 @media only screen and (min-width: 600px) {
   .navbar .rightPiece button {
