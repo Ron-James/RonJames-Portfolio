@@ -21,13 +21,16 @@ export default class Home extends Component {
             software projects I have been involved in."
         />
 
-<TextSection
+        <TextSection
           Image="road.jpg"
           Sub=""
-          Desc="Good Evening! My name is James 'Ron James' Theron. I'm a
+          Desc="Good Evening! My name is James 'Ron James' Theron. I'm a newly
             qualified software engineer and game designer by trade. I'm qualified
             with a BSc in Engineering Sciences and have my honours in Game Design and Interactive Development from the
-            University of the Witwatersrand. I'm a hardworking and confident programmer navigating my way throught the game development industry."
+            University of the Witwatersrand. I'm a hardworking student hoping to find 
+            my way into the software and game development industry. My goal is to gather workplace
+            experience in software development to expand my horizons to further
+            delve into the business of writing code."
           Title="About Me"
           TextColor="white"
         />
@@ -36,11 +39,11 @@ export default class Home extends Component {
           Sub=""
           Desc="I specialise in C++/C# development and have developed several
           computer games in the Unity game engine. I have worked on both solo
-          and team projects in a personal and professional setting. When it comes to developing digital games, my
+          and team projects. When it comes to developing digital games, my
           skills are best utilised in: general scripting, mechanic design,
-          physics engine design, developer tool creation, Virtual Reality development and multiplayer architecture development.
-          I have been using Unity to develope games since 2019
-          and have become well aquainted with the software."
+          physics engine design. I have been using Unity to develope games for
+          around 3 years now and have become well aquainted with the software.
+          My long term ambition is to work on digital games full time."
           Title="Game Designer and Developer"
           TextColor="whitesmoke"
         />

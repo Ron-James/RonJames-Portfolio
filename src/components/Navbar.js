@@ -31,7 +31,7 @@ export default class Navbar extends Component {
           <div className="hiddenLinks">
             <Link to="/RonJames-Portfolio">Home</Link>
             <Link to="/portfolio">Portfolio</Link>
-            <Link to='/docs'>Documentation & Snippets</Link>
+            <Link to='/docs'>Documentation</Link>
             <Link to="/contact">Contact</Link>
             {/*<Link to='/wireframes'>Wireframes</Link>*/}
           </div>
