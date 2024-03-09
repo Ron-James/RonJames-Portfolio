@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/RonJames-Portfolio/static/css/main.e9cddfa6.css",
-    "main.js": "/RonJames-Portfolio/static/js/main.096a965a.js",
-    "static/js/787.37faa4c4.chunk.js": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js",
+    "main.css": "/RonJames-Portfolio/static/css/main.f908d1b9.css",
+    "main.js": "/RonJames-Portfolio/static/js/main.45a57300.js",
+    "static/js/453.19a46213.chunk.js": "/RonJames-Portfolio/static/js/453.19a46213.chunk.js",
     "static/media/city.jpg": "/RonJames-Portfolio/static/media/city.ed099945eee8fcd09b35.jpg",
     "static/media/blossom.jpg": "/RonJames-Portfolio/static/media/blossom.93840dc1bf39934c9576.jpg",
     "static/media/dice.jpg": "/RonJames-Portfolio/static/media/dice.91fd4f9dec845f07df8b.jpg",
+    "static/media/engine.png": "/RonJames-Portfolio/static/media/engine.5b68856cdeb52516a76b.png",
+    "static/media/night.png": "/RonJames-Portfolio/static/media/night.9576a19593f7a4f406d5.png",
+    "static/media/work.png": "/RonJames-Portfolio/static/media/work.d8f2218051c865e65291.png",
     "static/media/Bloons.png": "/RonJames-Portfolio/static/media/Bloons.9afeddc7758b92fcc17a.png",
     "static/media/temp_Logo.jpg": "/RonJames-Portfolio/static/media/temp_Logo.f488aa403a636d7f33fb.jpg",
     "static/media/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg": "/RonJames-Portfolio/static/media/lorenzo-herrera-p0j-mE6mGo4-unsplash.d6881ce2173e6f27da39.jpg",
@@ -36,8 +39,9 @@
     "static/media/Text Sections.png": "/RonJames-Portfolio/static/media/Text Sections.9cf14e4f678c368a58ba.png",
     "static/media/lighthouse.jpg": "/RonJames-Portfolio/static/media/lighthouse.d162884ee8654c84ec12.jpg",
     "static/media/Abstract.png": "/RonJames-Portfolio/static/media/Abstract.977d29073cb8f5862ae4.png",
-    "static/media/roots.png": "/RonJames-Portfolio/static/media/roots.25958bd2fb1b5f73a645.png",
+    "static/media/roots-Ron-James-P-C.png": "/RonJames-Portfolio/static/media/roots-Ron-James-P-C.25958bd2fb1b5f73a645.png",
     "static/media/GradientHeader.png": "/RonJames-Portfolio/static/media/GradientHeader.ef3e2ba1539dccbc0870.png",
+    "static/media/roots.png": "/RonJames-Portfolio/static/media/roots.e4e4b194a2c7f7a4221b.png",
     "static/media/country.jpg": "/RonJames-Portfolio/static/media/country.94b3bbe953a5ceea5a07.jpg",
     "static/media/fantasy.jpg": "/RonJames-Portfolio/static/media/fantasy.c5aa28ddcb9e7bc35b42.jpg",
     "static/media/Puzzled.png": "/RonJames-Portfolio/static/media/Puzzled.14a433b707cc5fc613d4.png",
@@ -69,19 +73,18 @@
     "static/media/storm_night.png": "/RonJames-Portfolio/static/media/storm_night.4f08123225de80c42f76.png",
     "static/media/day_cloudy.png": "/RonJames-Portfolio/static/media/day_cloudy.a6d0b7d87d2022baaf47.png",
     "static/media/rainy.png": "/RonJames-Portfolio/static/media/rainy.cfc1c8ddf2b3bcb98cec.png",
-    "static/media/night.png": "/RonJames-Portfolio/static/media/night.9576a19593f7a4f406d5.png",
     "static/media/sun.png": "/RonJames-Portfolio/static/media/sun.0b43f5c98c23439dcf48.png",
     "static/media/slick.svg": "/RonJames-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/RonJames-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/RonJames-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/RonJames-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/RonJames-Portfolio/index.html",
-    "main.e9cddfa6.css.map": "/RonJames-Portfolio/static/css/main.e9cddfa6.css.map",
-    "main.096a965a.js.map": "/RonJames-Portfolio/static/js/main.096a965a.js.map",
-    "787.37faa4c4.chunk.js.map": "/RonJames-Portfolio/static/js/787.37faa4c4.chunk.js.map"
+    "main.f908d1b9.css.map": "/RonJames-Portfolio/static/css/main.f908d1b9.css.map",
+    "main.45a57300.js.map": "/RonJames-Portfolio/static/js/main.45a57300.js.map",
+    "453.19a46213.chunk.js.map": "/RonJames-Portfolio/static/js/453.19a46213.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9cddfa6.css",
-    "static/js/main.096a965a.js"
+    "static/css/main.f908d1b9.css",
+    "static/js/main.45a57300.js"
   ]
 }
