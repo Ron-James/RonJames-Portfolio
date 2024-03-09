@@ -1,13 +1,15 @@
 import React, { Component } from 'react'
-import { Link } from 'react-router-dom'
 import "../styles/BlogPreview.css"
 
-function importAll(r) {
-    let images = {};
-    r.keys().map((item, index) => { images[item.replace('./', '')] = r(item); });
+function importAll(imageContext) {
+    const images = {};
+    imageContext.keys().forEach((item, index) => {
+        const imageName = item.replace('./', '');
+        images[imageName] = imageContext(item);
+    });
     return images;
 }
-const images = importAll(require.context('../assets', false, /\.(png|jpe?g|svg)$/));  
+const images = importAll(require.context('../assets', false, /\.(png|jpe?g|svg)$/));
 
 
 export default class BlogPreview extends Component {
@@ -22,11 +24,11 @@ export default class BlogPreview extends Component {
     render() {
         return (
             <div>
-                <section className = "prev">
-                    <img src ={images[this.props.Image]}/>
+                <section className="prev">
+                    <img src={images[this.props.Image]} alt="" />
                     <div>
                         <h3>{this.props.Title}</h3>
-                        <a href={this.props.Link} target="_blank">Download</a>
+                        <a href={this.props.Link} target="_blank" rel="noreferrer">Download</a>
                     </div>
                 </section>
             </div>
