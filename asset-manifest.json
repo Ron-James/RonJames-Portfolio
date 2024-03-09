@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RonJames-Portfolio/static/css/main.f908d1b9.css",
-    "main.js": "/RonJames-Portfolio/static/js/main.dbea42ab.js",
+    "main.css": "/RonJames-Portfolio/static/css/main.0eb099e5.css",
+    "main.js": "/RonJames-Portfolio/static/js/main.61916bd0.js",
     "static/js/453.19a46213.chunk.js": "/RonJames-Portfolio/static/js/453.19a46213.chunk.js",
     "static/media/city.jpg": "/RonJames-Portfolio/static/media/city.ed099945eee8fcd09b35.jpg",
     "static/media/blossom.jpg": "/RonJames-Portfolio/static/media/blossom.93840dc1bf39934c9576.jpg",
     "static/media/dice.jpg": "/RonJames-Portfolio/static/media/dice.91fd4f9dec845f07df8b.jpg",
     "static/media/engine.png": "/RonJames-Portfolio/static/media/engine.5b68856cdeb52516a76b.png",
-    "static/media/night.png": "/RonJames-Portfolio/static/media/night.9576a19593f7a4f406d5.png",
+    "static/media/night.png": "/RonJames-Portfolio/static/media/night.149e8c6d50776bef9517.png",
     "static/media/work.png": "/RonJames-Portfolio/static/media/work.d8f2218051c865e65291.png",
     "static/media/Bloons.png": "/RonJames-Portfolio/static/media/Bloons.9afeddc7758b92fcc17a.png",
     "static/media/temp_Logo.jpg": "/RonJames-Portfolio/static/media/temp_Logo.f488aa403a636d7f33fb.jpg",
@@ -63,28 +63,20 @@
     "static/media/interface.png": "/RonJames-Portfolio/static/media/interface.1c69352e7543b23f84a9.png",
     "static/media/itch.png": "/RonJames-Portfolio/static/media/itch.01212b46e4ec536af64e.png",
     "static/media/astronaut.png": "/RonJames-Portfolio/static/media/astronaut.17055b5f2517af0a8293.png",
-    "static/media/drizzle_night.png": "/RonJames-Portfolio/static/media/drizzle_night.0de6653bd5cb6981b356.png",
-    "static/media/drizzle_day.png": "/RonJames-Portfolio/static/media/drizzle_day.f009e441a604361a2783.png",
     "static/media/wave2.png": "/RonJames-Portfolio/static/media/wave2.ca4301f1bbdfe7a9b967.png",
     "static/media/New Color Breakdown.png": "/RonJames-Portfolio/static/media/New Color Breakdown.b7fe92ade8d409af21bf.png",
     "static/media/instagram.png": "/RonJames-Portfolio/static/media/instagram.75e0546a6b5abe4c0506.png",
-    "static/media/night_cloudy.png": "/RonJames-Portfolio/static/media/night_cloudy.9f48991e6f815077ae98.png",
-    "static/media/storm_day.png": "/RonJames-Portfolio/static/media/storm_day.cc27487cf3dd715a502b.png",
-    "static/media/storm_night.png": "/RonJames-Portfolio/static/media/storm_night.4f08123225de80c42f76.png",
-    "static/media/day_cloudy.png": "/RonJames-Portfolio/static/media/day_cloudy.a6d0b7d87d2022baaf47.png",
-    "static/media/rainy.png": "/RonJames-Portfolio/static/media/rainy.cfc1c8ddf2b3bcb98cec.png",
-    "static/media/sun.png": "/RonJames-Portfolio/static/media/sun.0b43f5c98c23439dcf48.png",
     "static/media/slick.svg": "/RonJames-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/RonJames-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/RonJames-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/RonJames-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/RonJames-Portfolio/index.html",
-    "main.f908d1b9.css.map": "/RonJames-Portfolio/static/css/main.f908d1b9.css.map",
-    "main.dbea42ab.js.map": "/RonJames-Portfolio/static/js/main.dbea42ab.js.map",
+    "main.0eb099e5.css.map": "/RonJames-Portfolio/static/css/main.0eb099e5.css.map",
+    "main.61916bd0.js.map": "/RonJames-Portfolio/static/js/main.61916bd0.js.map",
     "453.19a46213.chunk.js.map": "/RonJames-Portfolio/static/js/453.19a46213.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f908d1b9.css",
-    "static/js/main.dbea42ab.js"
+    "static/css/main.0eb099e5.css",
+    "static/js/main.61916bd0.js"
   ]
 }
