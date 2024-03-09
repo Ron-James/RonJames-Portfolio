@@ -1,7 +1,5 @@
 import React, { Component } from "react";
 import BlogPreview from "../components/BlogPreview";
-import Reference from "../components/Reference";
-import Header from "../components/Header";
 import Hero from "../components/Hero";
 import Media from '../components/Media'
 export default class Blogs extends Component {
@@ -20,7 +18,7 @@ export default class Blogs extends Component {
 
         <BlogPreview Title="Game Design Documentation" Image="game.png" Link="https://github.com/Ron-James/MyGameDocs.git" />
 
-        <BlogPreview Title="Résumé" Image="resume.png" Link="https://drive.google.com/file/d/1___-EbRSokBQVJVzKk9qdb7_RI_vrX8m/view?usp=sharing" />
+        <BlogPreview Title="Résumé" Image="resume.png" Link="https://drive.google.com/file/d/1owMqd5bwECbPzBnLfjv1GXS67t6rpWuL/view?usp=sharing" />
 
         <Media />
       </div>

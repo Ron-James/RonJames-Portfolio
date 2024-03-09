@@ -1,12 +1,9 @@
 import React, { Component } from "react";
 //import Hero from "../assets/GradientHeader.png";
 import "../styles/Home.css";
-import Header from "../components/Header";
-import Logo from "../components/Logo";
 import Hero from "../components/Hero";
 import TextSection from "../components/TextSection";
 import Media from "../components/Media";
-import WeatherCard from "../components/WeatherCard";
 
 export default class Home extends Component {
   render() {
@@ -18,7 +15,7 @@ export default class Home extends Component {
           Sub="Game Designer | Software Engineer"
           Desc="Welcome to my portfolio! This is intended to 
             compliment my resume and be a space to show of the various 
-            software projects I have been involved in."
+            software projects I have been involved in. Take the chance to get to know me and my work."
         />
 
         <TextSection
